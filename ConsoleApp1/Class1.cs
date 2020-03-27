@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public void WebMetoda()
         {
+            //izmjena od kolaboratora ervin kondenar
         }
     }
 }
