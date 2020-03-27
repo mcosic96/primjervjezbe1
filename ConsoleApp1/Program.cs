@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //komentar
             Console.WriteLine("Promjena koda.");
             //ervin edit
+            //ispravak buga
         }
     }
 }
